@@ -6,4 +6,4 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=siddxharth&color=#ff69b4&stype=flat-square)
+![](https://komarev.com/ghpvc/?username=siddxharth&color="#ff69b4"&stype=flat-square)
