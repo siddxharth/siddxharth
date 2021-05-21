@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @siddxharth
 - 👀 I’m interested in collaborating in internship work.
 - 🌱 I’m currently learning Swift programming language.
-- 💞️ I’m looking to collaborate on iOS development.
 - 📫 Reach me at: mailto:siddxharth@icloud.com
 
 
