@@ -1,5 +1,5 @@
 # Siddharth Khatri
-I am an IT student at Symbiosis Insititute Of Technology, Pune. I do content on Design and Development. I really enjoy learning languages and frameworks like Django, Flutter and more. I also enjoy wireframing, ui, ux, and design in general.
+wassup
 
 ## Skills and Experience
 
