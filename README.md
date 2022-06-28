@@ -1,3 +1,3 @@
 # Siddharth Khatri
 
-## [@siddxharth](https://www.github.com/siddxharth)
+## [siddxharth.live](https://www.siddxharth.live)
