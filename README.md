@@ -1,3 +1,3 @@
 # Siddharth Khatri
 
-## [siddxharth.live](https://www.siddxharth.live)
+![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/siddxharth?style=for-the-badge)
