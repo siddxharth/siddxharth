@@ -1,5 +1,5 @@
 ```javascript
-var siddxharth = {
+const siddxharth = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Typescript", "SwiftUI", "C++", "Java (Basic)"],
   askMeAbout: ["web dev", "tech", "app dev", "ui/ux"],
