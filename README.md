@@ -24,6 +24,6 @@ const siddxharth = {
     linkedIn: "https://www.linkedin.com/in/siddxharth/",
     instagram: "https://www.instagram.com/_siddxharth_"
   },
-  lookingForInternship: true,
+  found: ["SOSS",]
 };
 ```
